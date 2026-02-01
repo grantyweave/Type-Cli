@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o+6exye1rQs=",
+  "success": true,
+  "projectFilePath": "/Users/gweaver1/TypeCLI/src/TypeCLI/TypeCLI.csproj",
+  "expectedPackageFiles": [
+    "/Users/gweaver1/.nuget/packages/spectre.console/0.49.1/spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}
